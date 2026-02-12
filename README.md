@@ -27,4 +27,4 @@
 ## Notes
 - Numerical instability limits accuracy beyond 4th–5th order.
 - Currently implemented for sin(x); extensible to other smooth functions.
-- Slider to vary the point around which local approximation is carried out may be added.# Interactive Visualization of the Taylor Series Approximation
+- Slider to vary the point around which local approximation is carried out may be added.
