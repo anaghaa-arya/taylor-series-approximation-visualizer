@@ -19,7 +19,7 @@
 2. Install dependencies:
    pip install numpy matplotlib
 3. Run:
-   ![python] (taylor_visualizer.py)
+   python taylor_visualizer.py
 
 ## Example
 ![Example Output](example.png)
